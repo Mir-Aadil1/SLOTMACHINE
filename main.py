@@ -1,3 +1,13 @@
+"""
+Slot Machine Game
+
+A simple slot machine game where the player can deposit money,
+place bets, spin the slot machine, and win or lose based on the spin result.
+
+Author: Aadil Mir
+Date: 09/06/2024
+"""
+
 import random 
 MAX_LINES = 3
 MAX_BET = 100
